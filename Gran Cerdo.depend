@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1656809361 source:c:\users\maria clara\desktop\gran cerdo\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656793611 c:\users\maria clara\desktop\gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656802917 c:\users\maria clara\desktop\gran cerdo\funciones.h
+
+1656812560 source:c:\users\maria clara\desktop\gran cerdo\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656819963 source:c:\users\maria clara\desktop\gran cerdo - copia\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656793611 c:\users\maria clara\desktop\gran cerdo - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656819962 c:\users\maria clara\desktop\gran cerdo - copia\funciones.h
+
+1656809361 source:c:\users\maria clara\desktop\gran cerdo - copia\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656863016 source:c:\users\pc\desktop\gran cerdo - copia\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\pc\desktop\gran cerdo - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656805562 c:\users\pc\desktop\gran cerdo - copia\funciones.h
+
+1656864505 source:c:\users\pc\desktop\gran cerdo - copia\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656873352 source:c:\users\charl\onedrive\escritorio\gc\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\charl\onedrive\escritorio\gc\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656873230 c:\users\charl\onedrive\escritorio\gc\funciones.h
+
+1656970806 source:c:\users\charl\onedrive\escritorio\gc\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656873352 source:c:\users\pc\desktop\gc\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\pc\desktop\gc\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656873230 c:\users\pc\desktop\gc\funciones.h
+
+1656887298 source:c:\users\pc\desktop\gc\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656873352 source:c:\users\maria clara\desktop\gc\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\maria clara\desktop\gc\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656873230 c:\users\maria clara\desktop\gc\funciones.h
+
+1656894189 source:c:\users\maria clara\desktop\gc\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656873352 source:c:\users\charl\onedrive\escritorio\grancerdofinal\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\charl\onedrive\escritorio\grancerdofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656873230 c:\users\charl\onedrive\escritorio\grancerdofinal\funciones.h
+
+1656971303 source:c:\users\charl\onedrive\escritorio\grancerdofinal\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656873352 source:c:\users\charl\onedrive\escritorio\programacion\facu\contenido materias\año 1 cuatri 1\laboratorio de computacion\grancerdofinal\funciones.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
+1656779210 c:\users\charl\onedrive\escritorio\programacion\facu\contenido materias\año 1 cuatri 1\laboratorio de computacion\grancerdofinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656873230 c:\users\charl\onedrive\escritorio\programacion\facu\contenido materias\año 1 cuatri 1\laboratorio de computacion\grancerdofinal\funciones.h
+
+1656984449 source:c:\users\charl\onedrive\escritorio\programacion\facu\contenido materias\año 1 cuatri 1\laboratorio de computacion\grancerdofinal\main.cpp
+	<iostream>
+	<clocale>
+	<ctime>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	"rlutil.h"
+	"funciones.h"
+
